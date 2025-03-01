@@ -27,7 +27,6 @@ apply plugin: 'kotlin-android'
 
 android {
 	namespace "it.beppefasano.wear"
-	applicationId "it.beppefasano.wear"
 	compileSdkVersion 31
 
 	sourceSets {
